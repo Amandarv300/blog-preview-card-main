@@ -1,0 +1,18 @@
+@media screen and (min-width:670px) and (max-width:2500px){
+    main{
+        width: 300px;
+        min-height: 430px;
+    }
+    #illustration{
+        width: 300px;
+    }
+    h1{
+        font-size: 1.4rem;
+    }
+    p{
+        font-size: 0.9rem;
+    }
+    h2{
+        font-size: 0.9rem;
+    }
+}
